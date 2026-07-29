@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/ab/02/75/ab02759e6660b375b4306351543ed9b6.gif" width="120px" alt="Hello Kitty">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Welcome+to+my+Workspace+💕;Crafting+Pixel-Perfect+Interfaces;Digital+Asset+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Welcome+to+my+Workspace+;Crafting+Pixel-Perfect+Interfaces;AI-Assisted+Development" alt="Typing SVG" />
   </a>
   <br><br>
   
@@ -17,6 +17,7 @@
 ### 🚀 About me
 
 * 👩‍💻 **Front-end Developer** passionate about crafting pixel-perfect interfaces and smooth digital experiences.
+* 🤖 **AI-Assisted & Modern Workflow:** Leveraging advanced tools like **Cursor**, **Codex**, and modern AI assistants to boost development efficiency.
 * 🧠 **My expertise lies in:** UI/UX Design, custom digital asset creation, and frontend architecture.
 * 📸 **Photography Enthusiast:** Exploring technical photography with manual settings (135mm, f/4, 1/500s) to capture candid, flash-lit Polaroid aesthetics.
 * ✨ **Design Philosophy:** Minimalist aesthetics, detail-oriented assets, and professional UI/UX optimization.
@@ -26,18 +27,21 @@
 
 ### 🛠️ Tech Stack
 
-**1. Languages**
+**1. Languages & Databases**
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br><br>
 
-**2. Frontend**
+**2. Frontend & Workflow**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 <br><br>
 
@@ -54,22 +58,3 @@
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
----
-
-## 🌐 Let's Connect
-
-*Đường link connect nãy Vy đưa tui đã gắn sẵn vào icon rồi nè.*
-
-<br>
-
-<a href="https://github.com/pntrvidet2">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40"/>
-</a>
-<a href="https://www.linkedin.com/in/pntrvidet2">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40"/>
-</a>
-<a href="mailto:phuongvie1110@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="40"/>
-</a>
-
-</div>
