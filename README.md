@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/ab/02/75/ab02759e6660b375b4306351543ed9b6.gif" width="120px" alt="Hello Kitty">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Welcome+to+my+Workspace+💕;Crafting+Pixel-Perfect+Interfaces;AI-Assisted+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Welcome+to+my+Workspace+ <3;Crafting+Pixel-Perfect+Interfaces;AI-Assisted+Development" alt="Typing SVG" />
   </a>
   <br><br>
   
@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 About me
+### 🚀 ABOUT ME
 
 * 👩‍💻 **Front-end Developer** passionate about crafting pixel-perfect interfaces and smooth digital experiences.
 * 🤖 **AI-Assisted & Modern Workflow:** Leveraging advanced tools like **Cursor**, **Codex**, and modern AI assistants to boost development efficiency.
