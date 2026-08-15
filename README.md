@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 ABOUT ME
+### ABOUT ME
 
 * 👩‍💻 **Front-end Developer** passionate about crafting pixel-perfect interfaces and smooth digital experiences.
 * 🤖 **AI-Assisted & Modern Workflow:** Leveraging advanced tools like **Cursor**, **Codex**, and modern AI assistants to boost development efficiency.
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **1. Languages & Databases**
 <br>
