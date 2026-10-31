@@ -1,1 +1,7 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=Hello,%20I'm%20Phuong%20Vy!&fontSize=50&fontAlignY=45" alt="Hello, I'm Phuong Vy!" /> <br> <img src="./kitty.gif" width="300px" alt="Hello Kitty"> </div>
+<div align="center">
+  <!-- Banner lượn sóng màu hồng pastel hợp với Hello Kitty -->
+  <img src="https://vercel.app" alt="Hello, I'm Phuong Vy!" />
+  <br>
+  <!-- Ảnh GIF Hello Kitty -->
+  <img src="https://giphy.com" width="300px" alt="Hello Kitty">
+</div>
