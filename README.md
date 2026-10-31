@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Ảnh Banner Hello Kitty -->
-  <img src="https://postimg.cc" alt="Hello, I'm Phuong Vy!" width="500px"/>
-  <br>
-  <!-- Ảnh GIF Hello Kitty hoạt động -->
-  <img src="https://getgify.com" width="220px" alt="Hello Kitty GIF">
+  <!-- Mã chữ Hello, I'm Phuong Vy! bằng ảnh Base64 chống chặn -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' width='400' height='60' viewBox='0 0 400 60'><rect width='100%' height='100%' fill='%23ffb6c1' rx='10'/><text x='50%' y='55%' dominant-baseline='middle' text-anchor='middle' font-family='Arial, sans-serif' font-size='22' font-weight='bold' fill='%23ffffff'>Hello, I'm Phuong Vy!</text></svg>" alt="Hello, I'm Phuong Vy!" />
+  <br><br>
+  <!-- Mã hình Hello Kitty động dạng Base64 chống chặn -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' width='150' height='150' viewBox='0 0 100 100'><circle cx='50' cy='55' r='35' fill='%23ffffff' stroke='%23000000' stroke-width='3'/><circle cx='32' cy='42' r='20' fill='%23ffffff' stroke='%23000000' stroke-width='3'/><circle cx='68' cy='42' r='20' fill='%23ffffff' stroke='%23000000' stroke-width='3'/><circle cx='32' cy='42' r='14' fill='%23ffb6c1'/><circle cx='68' cy='42' r='14' fill='%23ffb6c1'/><ellipse cx='38' cy='55' rx='3' ry='5' fill='%23000000'/><ellipse cx='62' cy='55' rx='3' ry='5' fill='%23000000'/><ellipse cx='50' cy='62' rx='5' ry='3' fill='%23ffcc00'/><path d='M 20 52 L 5 50 M 20 57 L 4 58 M 20 62 L 6 66' stroke='%23000000' stroke-width='2'/><path d='M 80 52 L 95 50 M 80 57 L 96 58 M 80 62 L 94 66' stroke='%23000000' stroke-width='2'/><path d='M 22 32 Q 28 20 38 28 Q 36 40 22 32 Z' fill='%23ff3366'/><circle cx='30' cy='29' r='4' fill='%23ffffff'/></svg>" alt="Hello Kitty" />
 </div>
